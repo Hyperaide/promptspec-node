@@ -1,6 +1,6 @@
 {
   "name": "promptspec",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Node SDK for invoking promptspec files.",
   "main": "index.js",
   "dependencies": {
