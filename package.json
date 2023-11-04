@@ -1,0 +1,29 @@
+{
+  "name": "promptspec",
+  "version": "0.0.1",
+  "description": "Node SDK for invoking promptspec files.",
+  "main": "index.js",
+  "dependencies": {
+    "argparse": "^2.0.1",
+    "asynckit": "^0.4.0",
+    "axios": "^1.6.0",
+    "combined-stream": "^1.0.8",
+    "delayed-stream": "^1.0.0",
+    "dotenv": "^16.3.1",
+    "follow-redirects": "^1.15.3",
+    "form-data": "^4.0.0",
+    "js-yaml": "^4.1.0",
+    "mime-db": "^1.52.0",
+    "mime-types": "^2.1.35",
+    "proxy-from-env": "^1.1.0",
+    "typescript": "^5.2.2",
+    "undici-types": "^5.26.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
